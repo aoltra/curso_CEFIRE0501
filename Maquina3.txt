@@ -1,2 +1,3 @@
 Procedimiento encendido maquina 3
 apretar boton rojo durante 3 segundos
+apretar al mismo tiempo ctrl+alt+supr
