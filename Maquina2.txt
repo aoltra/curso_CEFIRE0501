@@ -1,1 +1,3 @@
 Procedimiento encendido maquina 2
+apretar boton rojo 1 vez
+esperar 5 segundos
