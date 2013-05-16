@@ -1,3 +1,4 @@
 Procedimiento encendido maquina 1
 apretar boton rojo 2 veces
 apretar boton azul 1 vez
+cuando el display marque 10, apretar de nuevo el rojo
